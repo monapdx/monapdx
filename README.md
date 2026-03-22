@@ -1,6 +1,62 @@
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# Welcome
+
+With some help from AI, I hack together **local-first** tools because I’ve never had the luxury of depending on anything too fragile, expensive, or locked behind someone else’s system.
+
+A lot of my projects come from real situations— digging through old accounts, trying to make sense of exported data, needing tools that just work without subscriptions, logins, or gatekeeping.
+
+So instead of waiting for the “right” tools to exist, I make my own.
+
+## 🧠 What I actually spend time building
+- Tools to open up and **explore exported data**
+(emails, files, archives that are technically yours but hard to use)
+- Small apps that run locally in your browser or on your machine
+(no accounts, no backend, no strings attached)
+- Creative tools that feel fun, a little messy, and human
+(collage makers, word games, visual editors)
+- Things that are easy to copy, remix, and understand
+because not everyone comes from a traditional dev background
+
+## 🧰 Why my projects look like this
+
+I don’t build polished, enterprise-style software.
+
+**I build tools that:**
+
+- work on a regular Windows machine
+- don’t assume perfect setups or unlimited time
+- can be understood by someone figuring things out as they go
+- still function even if a company shuts down or changes the rules
+
+Because that’s the environment I’ve always had to work within.
+
+## 🧩 What you’ll find here
+- Data export tools & experiments
+- Frontend widgets you can drop into anything
+- Creative apps (games, editors, generators)
+- Weird little utilities that solved a very specific problem
+
+# 🤝 Contributing
+
+**If you’ve ever:**
+
+- hacked something together just to make it work
+- learned by trial and error
+- lost data that mattered to you because a platform suddenly disappeared
+- lost data that mattered to you because you were banned from a platform
+- or wanted tools that don’t treat you like a “user” but like a builder
+
+—you’ll probably fit right in here.
+
+🐾 Side note
+
+Most of this gets built in between real life and long walks with my dog, Loki, who is significantly more important than any repo on this page.
+
+**Nothing here depends on permission to exist.**
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=monapdx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=monapdx&theme=dark&hide_border=false)<br/>
