@@ -27,8 +27,7 @@ because not everyone comes from a traditional dev background
 [![Inbox Archeology](https://img.shields.io/badge/Inbox%20Archeology-10B981?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/monapdx/Inbox-Archeology)
 [![StoryPlay](https://img.shields.io/badge/StoryPlay-8B5CF6?style=for-the-badge&logo=storybook&logoColor=white)](https://github.com/monapdx/StoryPlay)
 [![Presentation Slide Editor](https://img.shields.io/badge/Slide%20Editor-0EA5E9?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://github.com/monapdx/presentation-slide-editor)
-[![Compounded](https://img.shields.io/badge/Compounded-F43F5E?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/monapdx/compounded)
-[![Word Bubbles](https://img.shields.io/badge/Word%20Bubbles-22C55E?style=for-the-badge&logo=googlemessages&logoColor=white)](https://github.com/monapdx/word-bubbles)
+
 
 ## 🧰 Why my projects look like this
 
