@@ -25,7 +25,6 @@ because not everyone comes from a traditional dev background
 [![90s Collage Maker](https://img.shields.io/badge/90s%20Collage%20Maker-FF009C?style=for-the-badge&logo=react&logoColor=white)](https://github.com/monapdx/90s-collage-maker)
 [![Frontend Widgets](https://img.shields.io/badge/Frontend%20Widgets-6366F1?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/monapdx/Frontend-Widgets)
 [![Inbox Archeology](https://img.shields.io/badge/Inbox%20Archeology-10B981?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/monapdx/Inbox-Archeology)
-[![Google Dependency Audit](https://img.shields.io/badge/Google%20Dependency%20Audit-F59E0B?style=for-the-badge&logo=google&logoColor=white)](https://github.com/monapdx/google-dependency-audit)
 [![StoryPlay](https://img.shields.io/badge/StoryPlay-8B5CF6?style=for-the-badge&logo=storybook&logoColor=white)](https://github.com/monapdx/StoryPlay)
 [![Presentation Slide Editor](https://img.shields.io/badge/Slide%20Editor-0EA5E9?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://github.com/monapdx/presentation-slide-editor)
 [![Compounded](https://img.shields.io/badge/Compounded-F43F5E?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/monapdx/compounded)
