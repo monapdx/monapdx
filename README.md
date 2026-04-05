@@ -65,13 +65,3 @@ Because that’s the environment I’ve always had to work within.
 Most of this gets built in between real life and long walks with my dog, Loki, who is significantly more important than any repo on this page.
 
 **Nothing here depends on permission to exist.**
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=monapdx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=monapdx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=monapdx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=monapdx&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
