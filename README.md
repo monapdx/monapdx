@@ -31,6 +31,8 @@ because not everyone comes from a traditional dev background
 
 ## 🧰 Why my projects look like this
 
+<img src="https://raw.githubusercontent.com/monapdx/the-casual-gamer/refs/heads/main/OWN-YOUR-DATA-4-6-2026.gif">
+
 I don’t build polished, enterprise-style software.
 
 **I build tools that:**
