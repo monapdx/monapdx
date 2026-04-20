@@ -3,6 +3,7 @@ description: Reach out if you'd like to hire me for a project, collaboration, or
 title: "[Hire Me]: "
 labels:
   - hire-me
+
 body:
   - type: markdown
     attributes:
@@ -16,7 +17,7 @@ body:
     attributes:
       label: Your name
       description: Who is reaching out?
-      placeholder: Jane Smith
+      placeholder: "Jane Smith"
     validations:
       required: true
 
@@ -25,14 +26,14 @@ body:
     attributes:
       label: Company / organization
       description: If applicable
-      placeholder: Acme Studio
+      placeholder: "Acme Studio"
 
   - type: input
     id: email
     attributes:
       label: Email address
       description: Best email to contact you
-      placeholder: jane@example.com
+      placeholder: "jane@example.com"
     validations:
       required: true
 
@@ -56,7 +57,7 @@ body:
     attributes:
       label: Project summary
       description: Give me a brief overview of what you need help with
-      placeholder: Describe the project, product, or problem you're trying to solve...
+      placeholder: "Describe the project, product, or problem you're trying to solve..."
     validations:
       required: true
 
@@ -65,7 +66,7 @@ body:
     attributes:
       label: Scope of work
       description: What exactly would you want me to do?
-      placeholder: Examples: build a frontend, improve UI, create a GitHub-ready repo, write documentation, etc.
+      placeholder: "Examples - build a frontend, improve UI, create a GitHub-ready repo, write documentation, etc."
     validations:
       required: true
 
@@ -90,14 +91,14 @@ body:
     attributes:
       label: Preferred tools / tech stack
       description: If you already know what tools or technologies you want used
-      placeholder: React, Vite, Next.js, plain HTML/CSS/JS, Python, Streamlit, etc.
+      placeholder: "React, Vite, Next.js, plain HTML/CSS/JS, Python, Streamlit, etc."
 
   - type: input
     id: timeline
     attributes:
       label: Desired timeline
       description: When would you like this to start and/or be completed?
-      placeholder: ASAP / Within 2 weeks / By June 15
+      placeholder: "ASAP or within 2 weeks or by June 15"
 
   - type: dropdown
     id: budget_range
@@ -119,7 +120,7 @@ body:
     attributes:
       label: References / examples
       description: Share links, screenshots, repos, or examples of what you want
-      placeholder: Paste links or describe examples here
+      placeholder: "Paste links or describe examples here"
 
   - type: dropdown
     id: urgency
@@ -136,9 +137,9 @@ body:
     attributes:
       label: Before submitting
       options:
-        - label: I understand this is an inquiry and not a guarantee of availability.
+        - label: "I understand this is an inquiry and not a guarantee of availability."
           required: true
-        - label: I have included enough detail for a meaningful response.
+        - label: "I have included enough detail for a meaningful response."
           required: true
-        - label: I am okay being contacted by email about this inquiry.
+        - label: "I am okay being contacted by email about this inquiry."
           required: true
