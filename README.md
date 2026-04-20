@@ -44,6 +44,15 @@ I don’t build polished, enterprise-style software.
 
 Because that’s the environment I’ve always had to work within.
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=monapdx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=monapdx&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monapdx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=monapdx&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ## 🧩 What you’ll find here
 - Data export tools & experiments
 - Frontend widgets you can drop into anything
