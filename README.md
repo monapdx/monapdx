@@ -20,15 +20,6 @@ So instead of waiting for the “right” tools to exist, I make my own.
 - Things that are easy to copy, remix, and understand
 because not everyone comes from a traditional dev background
 
-## ⭐ Favorite Projects
-
-[![90s Collage Maker](https://img.shields.io/badge/90s%20Collage%20Maker-FF009C?style=for-the-badge&logo=react&logoColor=white)](https://github.com/monapdx/90s-collage-maker)
-[![Frontend Widgets](https://img.shields.io/badge/Frontend%20Widgets-6366F1?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/monapdx/Frontend-Widgets)
-[![Inbox Archeology](https://img.shields.io/badge/Inbox%20Archeology-10B981?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/monapdx/Inbox-Archeology)
-[![StoryPlay](https://img.shields.io/badge/StoryPlay-8B5CF6?style=for-the-badge&logo=storybook&logoColor=white)](https://github.com/monapdx/StoryPlay)
-[![Presentation Slide Editor](https://img.shields.io/badge/Slide%20Editor-0EA5E9?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://github.com/monapdx/presentation-slide-editor)
-
-
 ## 🧰 Why my projects look like this
 
 I don’t build polished, enterprise-style software.
