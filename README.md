@@ -2,57 +2,53 @@
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-# Welcome
+I build the tools I wish already existed.
 
-With some help from AI, I hack together **local-first** tools because I’ve never had the luxury of depending on anything too fragile, expensive, or locked behind someone else’s system.
+With help from AI, I turn oddly specific problems, persistent curiosities, and occasional grudges against bad software into things that actually work.
 
-A lot of my projects come from real situations— digging through old accounts, trying to make sense of exported data, needing tools that just work without subscriptions, logins, or gatekeeping.
+Most of my projects begin with a real need: exploring years of exported email, making archived data useful again, publishing without surrendering control to another platform, or creating something I couldn’t find anywhere else.
 
-So instead of waiting for the “right” tools to exist, I make my own.
+I’m not a traditional developer. I’m a writer, researcher, obsessive documenter, and enthusiastic maker who learned that not knowing how to build something is no longer a particularly compelling reason not to try.
 
-## 🧠 What I actually spend time building
-- Tools to open up and **explore exported data**
-(emails, files, archives that are technically yours but hard to use)
-- Small apps that run locally in your browser or on your machine
-(no accounts, no backend, no strings attached)
-- Creative tools that feel fun, a little messy, and human
-(collage makers, word games, visual editors)
-- Things that are easy to copy, remix, and understand
-because not everyone comes from a traditional dev background
+## What I build
 
-## 🧰 Why my projects look like this
+### My repositories include:
 
-I don’t build polished, enterprise-style software.
+- Local-first tools for exploring email, account exports, archives, and other data that is technically yours but rarely made easy to use
+- Creative software for interactive stories, games, collages, visual editing, and experimental forms of writing
+- Browser extensions and small utilities that improve the tools I already use
+- Resources for reproductive justice, open-web history, and people learning GitHub outside traditional software development
+- Weirdly specific solutions to problems that may have bothered only me—until someone else finds them
 
-**I build tools that:**
+My projects tend to be free, understandable, remixable, and usable without subscriptions, mandatory accounts, or dependence on a company’s continued goodwill.
 
-- work on a regular Windows machine
-- don’t assume perfect setups or unlimited time
-- can be understood by someone figuring things out as they go
-- still function even if a company shuts down or changes the rules
+## How I work
 
-Because that’s the environment I’ve always had to work within.
+I build through curiosity, trial and error, AI collaboration, and an unreasonable willingness to keep poking at something until it works.
 
-## 🧩 What you’ll find here
-- Data export tools & experiments
-- Frontend widgets you can drop into anything
-- Creative apps (games, editors, generators)
-- Weird little utilities that solved a very specific problem
+I care more about whether a tool is useful than whether it resembles enterprise software. It should run on an ordinary Windows computer, survive imperfect setups, and remain accessible to people who did not arrive with a computer science degree.
 
-# 🤝 Contributing
+Good documentation matters to me for the same reason: people should be able to understand what a project does, make it their own, and recover when something breaks.
 
-**If you’ve ever:**
+## Why local-first matters to me
 
-- hacked something together just to make it work
-- learned by trial and error
-- lost data that mattered to you because a platform suddenly disappeared
-- lost data that mattered to you because you were banned from a platform
-- or wanted tools that don’t treat you like a “user” but like a builder
+I’ve never had the luxury of depending on systems that are fragile, expensive, or controlled entirely by someone else.
 
-—you’ll probably fit right in here.
+Platforms disappear. Companies change their rules. Accounts get banned. Features are removed. Data that supposedly belongs to you becomes useless the moment you try to take it elsewhere.
 
-🐾 Side note
+So I’m drawn to software that can be downloaded, inspected, copied, changed, and kept.
 
-Most of this gets built in between real life and long walks with my dog, Loki, who is significantly more important than any repo on this page.
+Nothing here depends on permission to exist.
 
-**Nothing here depends on permission to exist.**
+### You’ll probably fit in here if you’ve ever…
+
+- Hacked something together because you needed it to work
+- Learned by doing instead of waiting to become qualified
+- Lost something important when a platform disappeared or locked you out
+- Wanted to understand your own exported data
+- Preferred a strange, useful little tool over a polished product that wants your credit card
+- Looked at a piece of software and thought, I could make something better for me
+
+## A note about Loki
+
+Most of this gets built between real life and long walks with my dog, Loki, who is significantly more important than every repository on this page combined.
