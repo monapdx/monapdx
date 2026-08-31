@@ -1,54 +1,176 @@
+# Hi, I'm Ashly.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+### I make weirdly specific tools, loud interfaces, and things I wish already existed.
 
-I build the tools I wish already existed.
+I'm not a traditional developer.
 
-With help from AI, I turn oddly specific problems, persistent curiosities, and occasional grudges against bad software into things that actually work.
+I'm a **writer, researcher, designer, archivist, obsessive documenter, and enthusiastic maker** who discovered that not knowing how to build something is no longer a particularly compelling reason not to try.
 
-Most of my projects begin with a real need: exploring years of exported email, making archived data useful again, publishing without surrendering control to another platform, or creating something I couldn’t find anywhere else.
+I work heavily with AI.
 
-I’m not a traditional developer. I’m a writer, researcher, obsessive documenter, and enthusiastic maker who learned that not knowing how to build something is no longer a particularly compelling reason not to try.
+I learn technologies when a project gives me a reason to learn them.
 
-## What I build
+The project comes first.
 
-### My repositories include:
+The stack follows.
 
-- Local-first tools for exploring email, account exports, archives, and other data that is technically yours but rarely made easy to use
-- Creative software for interactive stories, games, collages, visual editing, and experimental forms of writing
-- Browser extensions and small utilities that improve the tools I already use
-- Resources for reproductive justice, open-web history, and people learning GitHub outside traditional software development
-- Weirdly specific solutions to problems that may have bothered only me—until someone else finds them
+---
 
-My projects tend to be free, understandable, remixable, and usable without subscriptions, mandatory accounts, or dependence on a company’s continued goodwill.
+## ⚡ What I make
 
-## How I work
+I don't really have one category.
 
-I build through curiosity, trial and error, AI collaboration, and an unreasonable willingness to keep poking at something until it works.
+- Sometimes I identify a problem.
 
-I care more about whether a tool is useful than whether it resembles enterprise software. It should run on an ordinary Windows computer, survive imperfect setups, and remain accessible to people who did not arrive with a computer science degree.
+- Sometimes I discover a dataset.
 
-Good documentation matters to me for the same reason: people should be able to understand what a project does, make it their own, and recover when something breaks.
+- Sometimes I become annoyed with existing software.
 
-## Why local-first matters to me
+These are all equally dangerous.
 
-I’ve never had the luxury of depending on systems that are fragile, expensive, or controlled entirely by someone else.
+---
 
-Platforms disappear. Companies change their rules. Accounts get banned. Features are removed. Data that supposedly belongs to you becomes useless the moment you try to take it elsewhere.
+# 🔥 Featured Projects
 
-So I’m drawn to software that can be downloaded, inspected, copied, changed, and kept.
+### 🧱 Modular Markup Language
 
-Nothing here depends on permission to exist.
+An experiment in treating documents as modular systems rather than one long stream of markup.
 
-### You’ll probably fit in here if you’ve ever…
+Part language design, part publishing experiment, part attempt to answer:
 
-- Hacked something together because you needed it to work
-- Learned by doing instead of waiting to become qualified
-- Lost something important when a platform disappeared or locked you out
-- Wanted to understand your own exported data
-- Preferred a strange, useful little tool over a polished product that wants your credit card
-- Looked at a piece of software and thought, I could make something better for me
+**What would markup look like if I designed it around the way I actually think?**
 
-## A note about Loki
+---
 
-Most of this gets built between real life and long walks with my dog, Loki, who is significantly more important than every repository on this page combined.
+### 📬 Inbox Archeology
+
+Tools for turning years of accumulated email into something you can actually explore.
+
+Search it. Classify it. Find forgotten relationships, projects, conversations, patterns, and pieces of your own history buried inside an inbox.
+
+Your email archive is a dataset.
+
+Might as well interrogate it.
+
+---
+
+### 🎭 StoryPlay
+
+Interactive narrative tooling for building branching stories and experimenting with structured fiction.
+
+Because writing a story and designing the system containing the story are apparently two different hobbies I decided I needed.
+
+---
+
+### 📝 GooDocs
+
+A growing collection of creative Google Docs templates built by abusing tables, borders, spacing, and every other layout trick Google Docs reluctantly permits.
+
+Because Google Docs is powerful.
+
+It is also beige in spirit.
+
+---
+
+### ⚡ Electrocution / ☢️ Neon Acid
+
+Obsidian themes for people who have never once asked:
+
+> “Could we make this more subtle?”
+
+Hot pink. Electric lime. Cyan. Ultraviolet. Hard edges. Loud hierarchy.
+
+**Nothing I make is quiet.**
+
+---
+
+# 🗃️ The librarian brain
+
+- I like archives.
+
+- I like taxonomies.
+
+- I like metadata.
+
+- I like taking enormous piles of information and figuring out how they relate to each other.
+
+A surprising amount of my software is ultimately some variation of:
+
+**“There is useful information in this mess. Give me a better way to see it.”**
+
+That applies to email archives, personal datasets, repositories, documents, stories, resources, and occasionally my own life.
+
+---
+
+# 🔓 Build things you can keep
+
+I'm deeply suspicious of software that only exists for you as long as a company continues giving you permission to use it.
+
+- Platforms disappear.
+
+- APIs close.
+
+- Accounts get banned.
+
+- Features vanish.
+
+- Subscriptions increase.
+
+- Export buttons produce a ZIP file containing seventeen JSON files and the vague suggestion that you go fuck yourself.
+
+So I gravitate toward things that are:
+
+**local-first · portable · inspectable · remixable · exportable · understandable**
+
+- I like software you can download.
+
+- I like plain files.
+
+- I like tools that don't require accounts.
+
+- I like projects that continue existing after their creator gets bored.
+
+**If the data is yours, you should be able to actually use it.**
+
+---
+
+# 🛠️ Things I use
+
+**Frontend**
+HTML · CSS · JavaScript · TypeScript · React · Vite
+
+**Data & tools**
+Python · Streamlit · SQLite
+
+**Making things**
+Obsidian · GitHub · Cursor · GIMP · FFmpeg
+
+And whatever else the current project forces me to learn.
+
+---
+
+# 🧪 Current operating procedure
+
+```text
+find interesting problem
+        ↓
+become disproportionately curious about it
+        ↓
+collect entirely too much information
+        ↓
+invent classification system
+        ↓
+build tool
+        ↓
+redesign tool
+        ↓
+add unnecessary but delightful feature
+        ↓
+publish to GitHub
+        ↓
+notice another problem
+        ↓
+repeat
+```
+
+---
